@@ -1,1 +1,1 @@
-Team Lead: Shapenga Chibotu #Developer A
+Team Lead: Joachim Kaluma #Developer B
